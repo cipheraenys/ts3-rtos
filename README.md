@@ -1,7 +1,7 @@
 # ts3-rtos
 
 Umbrella for the TS3-RTOS project: a TeamSpeak 3 client for RTOS / cellular
-handheld PoC radios. Two segments, pulled as submodules:
+handheld PoC radios. Two submodules:
 
 - `core/`   -> [ts3-core](https://github.com/cipheraenys/ts3-core) - portable C++17 client core.
 - `python/` -> [ts3-quecpython](https://github.com/cipheraenys/ts3-quecpython) - QuecPython device layer.
