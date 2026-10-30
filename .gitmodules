@@ -1,0 +1,6 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/cipheraenys/ts3-core
+[submodule "python"]
+	path = python
+	url = https://github.com/cipheraenys/ts3-quecpython
